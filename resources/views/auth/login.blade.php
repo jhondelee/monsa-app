@@ -18,7 +18,7 @@
 
             </div>
 
-            <h3>Sales and Inventory System</h3>
+            <h3>Monsa Sales and Inventory System</h3>
 
             @include('layouts.alert2')
 
